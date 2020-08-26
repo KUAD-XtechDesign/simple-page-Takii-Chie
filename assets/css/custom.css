@@ -151,6 +151,12 @@ main{
     border-radius: 10px;
 }
 
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
 .session,
 .period{
     margin-bottom: 40px;
