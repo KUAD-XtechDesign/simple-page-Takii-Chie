@@ -139,6 +139,7 @@ main{
     display:inline-block;
     padding: 10px;
     border: 1px solid #ccc;
+    flex-direction: row;
 }
 
 .sub_pic img{
