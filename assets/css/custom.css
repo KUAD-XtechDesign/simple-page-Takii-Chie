@@ -130,6 +130,7 @@ main{
 
 
 .main_pic{
+    display: block;
     width: 600px;
     text-align: center;
     margin-bottom: 30px;
