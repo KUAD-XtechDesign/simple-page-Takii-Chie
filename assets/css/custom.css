@@ -137,7 +137,6 @@ main{
 
 .sub_pic{
     display:inline-block;
-    width: 400px;
     padding: 10px;
     border: 1px solid #ccc;
 }
