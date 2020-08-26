@@ -130,9 +130,9 @@ main{
 
 
 .main_pic{
+    width: 600px;
     text-align: center;
     margin-bottom: 30px;
-    height: 600px;
 }
 
 .sub_pic{
