@@ -130,11 +130,10 @@ main{
 
 
 .main_pic{
-    display: block;
     width: 600px;
     text-align: center;
-    padding-left: 5px;
     margin-bottom: 30px;
+    justify-content: center;
 }
 
 .sub_pic{
