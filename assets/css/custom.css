@@ -142,8 +142,9 @@ main{
     width: 40%;
 }
 
-.sub_pic img{
-    display:block;
+.sub_picture{
+    display:inline-block;
+    width: 700px;
 }
 
 .main_pic img{
