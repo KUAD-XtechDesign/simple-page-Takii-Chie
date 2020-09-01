@@ -159,6 +159,12 @@ main{
     flex-direction: row;
 }
 
+.text{
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
 .session,
 .period{
     margin-bottom: 40px;
